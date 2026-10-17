@@ -1,0 +1,1 @@
+Supplied from the uploaded Kaggle results archive: best_densenet121_baseline.pth, densenet121_baseline_cm.png, densenet121_baseline_curves.png. Checkpoint keys match standard torchvision DenseNet121 features and a classifier with four output units. Confirm output class index order and preprocessing against the original training notebook.
